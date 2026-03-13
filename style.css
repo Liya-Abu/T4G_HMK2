@@ -1,0 +1,13 @@
+.socials{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+    align-items: start;
+}
+
+.socials-container {
+    display: flex;
+    flex-direction: row;
+}
